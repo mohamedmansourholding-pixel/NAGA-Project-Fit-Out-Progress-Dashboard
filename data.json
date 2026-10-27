@@ -1,0 +1,671 @@
+{
+ "reportDate": "2026-10-26",
+ "planAsOf": "2026-10-23T17:00",
+ "submissionsTarget": 100,
+ "overall": {
+  "actual": 37.79,
+  "previous": 34.11
+ },
+ "floorProgress": {
+  "2nd": 42.78,
+  "1st": 39.29,
+  "GF": 32.27
+ },
+ "logs": [
+  {
+   "name": "DWG",
+   "counts": {
+    "B": 1,
+    "C": 1,
+    "D": 1,
+    "W": 4
+   }
+  },
+  {
+   "name": "MAR",
+   "counts": {
+    "A": 1,
+    "B": 1,
+    "W": 14
+   }
+  },
+  {
+   "name": "WIR",
+   "counts": {
+    "B": 1,
+    "C": 2,
+    "W": 16
+   }
+  },
+  {
+   "name": "MEP Clearance",
+   "counts": {
+    "Closed": 2,
+    "O": 2,
+    "W": 11
+   }
+  },
+  {
+   "name": "RFI",
+   "counts": {
+    "Closed": 1,
+    "O": 1,
+    "W": 7
+   }
+  },
+  {
+   "name": "RFP",
+   "counts": {
+    "W": 4
+   }
+  }
+ ],
+ "tasks": [
+  {
+   "id": 1,
+   "floor": "2nd",
+   "name": "Insulation shop drawing submittal",
+   "start": "2026-09-06",
+   "finish": "2026-09-07",
+   "percent": 100.0
+  },
+  {
+   "id": 2,
+   "floor": "2nd",
+   "name": "Material Submittal approval",
+   "start": "2026-09-06",
+   "finish": "2026-09-06",
+   "percent": 100.0
+  },
+  {
+   "id": 3,
+   "floor": "2nd",
+   "name": "A/C Concrete base",
+   "start": "2026-09-07",
+   "finish": "2026-09-10",
+   "percent": 100.0
+  },
+  {
+   "id": 4,
+   "floor": "2nd",
+   "name": "Roof Insulation starting",
+   "start": "2026-09-16",
+   "finish": "2026-09-23",
+   "percent": 100.0
+  },
+  {
+   "id": 5,
+   "floor": "2nd",
+   "name": "Plastering",
+   "start": "2026-09-16",
+   "finish": "2026-09-20",
+   "percent": 100.0
+  },
+  {
+   "id": 6,
+   "floor": "2nd",
+   "name": "Toilet Insullation",
+   "start": "2026-09-21",
+   "finish": "2026-09-28",
+   "percent": 100.0
+  },
+  {
+   "id": 7,
+   "floor": "2nd",
+   "name": "floor screed",
+   "start": "2026-09-17",
+   "finish": "2026-09-24",
+   "percent": 20.0
+  },
+  {
+   "id": 8,
+   "floor": "2nd",
+   "name": "INTERNAL SECOND FLOOR SCREED",
+   "start": "2026-09-20",
+   "finish": "2026-09-22",
+   "percent": 0.0
+  },
+  {
+   "id": 9,
+   "floor": "2nd",
+   "name": "Ceramic for toilets walls",
+   "start": "2026-09-26",
+   "finish": "2026-10-06",
+   "percent": 25.0
+  },
+  {
+   "id": 10,
+   "floor": "2nd",
+   "name": "Ceramic for toilets floor",
+   "start": "2026-10-07",
+   "finish": "2026-10-18",
+   "percent": 0.0
+  },
+  {
+   "id": 11,
+   "floor": "2nd",
+   "name": "MEP Ceiling activity",
+   "start": "2026-09-26",
+   "finish": "2026-10-01",
+   "percent": 65.0
+  },
+  {
+   "id": 12,
+   "floor": "2nd",
+   "name": "Ceiling System",
+   "start": "2026-10-05",
+   "finish": "2026-10-10",
+   "percent": 0.0
+  },
+  {
+   "id": 13,
+   "floor": "2nd",
+   "name": "Ceiling Gypsum board",
+   "start": "2026-10-11",
+   "finish": "2026-10-21",
+   "percent": 0.0
+  },
+  {
+   "id": 14,
+   "floor": "2nd",
+   "name": "Ceiling Paint",
+   "start": "2026-10-22",
+   "finish": "2026-10-29",
+   "percent": 0.0
+  },
+  {
+   "id": 15,
+   "floor": "2nd",
+   "name": "Wall Painting",
+   "start": "2026-10-25",
+   "finish": "2026-11-04",
+   "percent": 0.0
+  },
+  {
+   "id": 16,
+   "floor": "2nd",
+   "name": "joinery & counters",
+   "start": "2026-10-10",
+   "finish": "2026-10-15",
+   "percent": 0.0
+  },
+  {
+   "id": 17,
+   "floor": "2nd",
+   "name": "Neocement",
+   "start": "2026-10-31",
+   "finish": "2026-11-04",
+   "percent": 0.0
+  },
+  {
+   "id": 18,
+   "floor": "1st",
+   "name": "Site prepration",
+   "start": "2026-08-30",
+   "finish": "2026-09-24",
+   "percent": 100.0
+  },
+  {
+   "id": 19,
+   "floor": "1st",
+   "name": "Plastering",
+   "start": "2026-09-01",
+   "finish": "2026-09-21",
+   "percent": 100.0
+  },
+  {
+   "id": 20,
+   "floor": "1st",
+   "name": "Toilet Insullation",
+   "start": "2026-09-29",
+   "finish": "2026-10-03",
+   "percent": 100.0
+  },
+  {
+   "id": 21,
+   "floor": "1st",
+   "name": "Toilets - floor screed",
+   "start": "2026-09-26",
+   "finish": "2026-09-28",
+   "percent": 100.0
+  },
+  {
+   "id": 22,
+   "floor": "1st",
+   "name": "Floor screed",
+   "start": "2026-09-21",
+   "finish": "2026-09-26",
+   "percent": 100.0
+  },
+  {
+   "id": 23,
+   "floor": "1st",
+   "name": "Ceramic for toilets walls",
+   "start": "2026-09-29",
+   "finish": "2026-10-04",
+   "percent": 70.0
+  },
+  {
+   "id": 24,
+   "floor": "1st",
+   "name": "Ceramic for toilets floor",
+   "start": "2026-10-05",
+   "finish": "2026-10-10",
+   "percent": 0.0
+  },
+  {
+   "id": 25,
+   "floor": "1st",
+   "name": "Toilet Partitions",
+   "start": "2026-10-11",
+   "finish": "2026-10-21",
+   "percent": 0.0
+  },
+  {
+   "id": 26,
+   "floor": "1st",
+   "name": "Aluminum frames 1st fix",
+   "start": "2026-10-22",
+   "finish": "2026-10-29",
+   "percent": 50.0,
+   "remarks": "Off-Site"
+  },
+  {
+   "id": 27,
+   "floor": "1st",
+   "name": "Gypsumboard Partitions",
+   "start": "2026-09-27",
+   "finish": "2026-10-13",
+   "percent": 53.0
+  },
+  {
+   "id": 28,
+   "floor": "1st",
+   "name": "Aluminum second fix",
+   "start": "2026-10-14",
+   "finish": "2026-10-21",
+   "percent": 0.0
+  },
+  {
+   "id": 29,
+   "floor": "1st",
+   "name": "Glass For partitions",
+   "start": "2026-10-14",
+   "finish": "2026-10-21",
+   "percent": 0.0
+  },
+  {
+   "id": 30,
+   "floor": "1st",
+   "name": "Ceiling System",
+   "start": "2026-10-06",
+   "finish": "2026-10-19",
+   "percent": 0.0
+  },
+  {
+   "id": 31,
+   "floor": "1st",
+   "name": "Ceiling Gypsum board",
+   "start": "2026-10-14",
+   "finish": "2026-10-31",
+   "percent": 0.0
+  },
+  {
+   "id": 32,
+   "floor": "1st",
+   "name": "Ceiling Paint",
+   "start": "2026-10-20",
+   "finish": "2026-10-27",
+   "percent": 0.0
+  },
+  {
+   "id": 33,
+   "floor": "1st",
+   "name": "Wall Painting",
+   "start": "2026-10-20",
+   "finish": "2026-11-07",
+   "percent": 0.0
+  },
+  {
+   "id": 34,
+   "floor": "1st",
+   "name": "joinery & counters",
+   "start": "2026-10-10",
+   "finish": "2026-10-15",
+   "percent": 75.0,
+   "remarks": "Off-Site"
+  },
+  {
+   "id": 35,
+   "floor": "1st",
+   "name": "Neocement colorteck",
+   "start": "2026-10-17",
+   "finish": "2026-10-21",
+   "percent": 0.0
+  },
+  {
+   "id": 36,
+   "floor": "1st",
+   "name": "Main Stair Finish",
+   "start": "2026-09-27",
+   "finish": "2026-10-07",
+   "percent": 0.0
+  },
+  {
+   "id": 37,
+   "floor": "1st",
+   "name": "Main Stair handrail",
+   "start": "2026-10-08",
+   "finish": "2026-10-14",
+   "percent": 0.0
+  },
+  {
+   "id": 38,
+   "floor": "GF",
+   "name": "Plastering",
+   "start": "2026-09-22",
+   "finish": "2026-10-03",
+   "percent": 100.0
+  },
+  {
+   "id": 39,
+   "floor": "GF",
+   "name": "Toilet Insullation",
+   "start": "2026-10-04",
+   "finish": "2026-10-08",
+   "percent": 100.0
+  },
+  {
+   "id": 40,
+   "floor": "GF",
+   "name": "Toilets - floor screed",
+   "start": "2026-09-27",
+   "finish": "2026-10-04",
+   "percent": 100.0
+  },
+  {
+   "id": 41,
+   "floor": "GF",
+   "name": "Ceramic for toilets walls",
+   "start": "2026-10-05",
+   "finish": "2026-10-15",
+   "percent": 0.0
+  },
+  {
+   "id": 42,
+   "floor": "GF",
+   "name": "Ceramic for toilets floor",
+   "start": "2026-10-17",
+   "finish": "2026-10-27",
+   "percent": 0.0
+  },
+  {
+   "id": 43,
+   "floor": "GF",
+   "name": "Toilet Partitions",
+   "start": "2026-10-28",
+   "finish": "2026-11-08",
+   "percent": 0.0
+  },
+  {
+   "id": 44,
+   "floor": "GF",
+   "name": "Ceiling System",
+   "start": "2026-10-20",
+   "finish": "2026-11-05",
+   "percent": 0.0
+  },
+  {
+   "id": 45,
+   "floor": "GF",
+   "name": "Ceiling Gypsum board",
+   "start": "2026-11-07",
+   "finish": "2026-11-23",
+   "percent": 0.0
+  },
+  {
+   "id": 46,
+   "floor": "GF",
+   "name": "Ceiling Paint",
+   "start": "2026-11-24",
+   "finish": "2026-12-10",
+   "percent": 0.0
+  },
+  {
+   "id": 47,
+   "floor": "GF",
+   "name": "Floor screed",
+   "start": "2026-09-23",
+   "finish": "2026-10-10",
+   "percent": 100.0
+  },
+  {
+   "id": 48,
+   "floor": "GF",
+   "name": "Wall Partitions",
+   "start": "2026-10-11",
+   "finish": "2026-10-27",
+   "percent": 100.0
+  },
+  {
+   "id": 49,
+   "floor": "GF",
+   "name": "joinery & counters",
+   "start": "2026-11-01",
+   "finish": "2026-11-17",
+   "percent": 0.0
+  },
+  {
+   "id": 50,
+   "floor": "GF",
+   "name": "Gypsumboard Partitions",
+   "start": "2026-10-11",
+   "finish": "2026-10-21",
+   "percent": 75.0
+  },
+  {
+   "id": 51,
+   "floor": "GF",
+   "name": "Glass For partitions",
+   "start": "2026-10-22",
+   "finish": "2026-10-29",
+   "percent": 0.0
+  },
+  {
+   "id": 52,
+   "floor": "GF",
+   "name": "Neocement colorteck",
+   "start": "2026-12-12",
+   "finish": "2026-12-19",
+   "percent": 0.0
+  },
+  {
+   "id": 53,
+   "floor": "GF",
+   "name": "Wall Painting",
+   "start": "2026-10-31",
+   "finish": "2026-11-16",
+   "percent": 0.0
+  },
+  {
+   "id": 54,
+   "floor": "GF",
+   "name": "Faced the contractor to fix the external frame bases",
+   "start": "2026-09-26",
+   "finish": "2026-09-28",
+   "percent": 0.0
+  },
+  {
+   "id": 55,
+   "floor": "GF",
+   "name": "Marble fixing",
+   "start": "2026-09-29",
+   "finish": "2026-10-15",
+   "percent": 0.0
+  },
+  {
+   "id": 56,
+   "floor": "GF",
+   "name": "Aluminum covering",
+   "start": "2026-10-17",
+   "finish": "2026-11-08",
+   "percent": 0.0
+  },
+  {
+   "id": 57,
+   "floor": "GF",
+   "name": "Snag List",
+   "start": "2026-12-20",
+   "finish": "2027-01-17",
+   "percent": 0.0
+  }
+ ],
+ "lookahead": [
+  "Porcelain tiles in all wet-area walls and floors",
+  "Glass partitions: first fix on site",
+  "Cement-look paint: start application",
+  "Start elevation profile",
+  "Finish gypsum board partitions: second fix",
+  "Finish roof and upper roof tiles",
+  "Start stairs terrazzo application",
+  "Clean up inside and outside"
+ ],
+ "transmittals": [
+  {
+   "no": "No. 01",
+   "period": "19–24 Sep",
+   "sent": "26 Sep"
+  },
+  {
+   "no": "No. 02",
+   "period": "26 Sep–3 Oct",
+   "sent": "3 Oct"
+  },
+  {
+   "no": "No. 03",
+   "period": "3–10 Oct",
+   "sent": "10 Oct"
+  },
+  {
+   "no": "No. 04",
+   "period": "10–17 Oct",
+   "sent": "17 Oct"
+  },
+  {
+   "no": "No. 05",
+   "period": "17–24 Oct",
+   "sent": "26 Oct"
+  }
+ ],
+ "issuesDate": "2026-10-26",
+ "issues": [
+  {
+   "no": 1,
+   "item": "Flush Tank Installation and Inspection",
+   "description": "The delay in the installation and handover of the flush tank caused a delay in the subsequent work items.",
+   "required": "Confirm the final mounting requirements and coordinate the necessary adjustments and associated blockwork reinstatement.",
+   "owner": "MEP Team",
+   "status": "Closed",
+   "impact": "Sent from 26-09-2026, finished 15/10/2026 (20 days delay to subsequent activities)"
+  },
+  {
+   "no": 2,
+   "item": "Bathroom Wall Lighting",
+   "description": "Completion of the bathroom wall lighting installations is required to release the affected areas for subsequent wall finishing works.",
+   "required": "Confirm the outstanding scope and completion date, followed by clearance for finishing works.",
+   "owner": "MEP Team",
+   "status": "Closed",
+   "impact": "Finished 15/10/2026 (20 days delay to subsequent activities)"
+  },
+  {
+   "no": 3,
+   "item": "Concealed Bathroom Mixers Test",
+   "description": "Conduct and complete the pressure test for the concealed mixers so that work in these areas can resume.",
+   "required": "Finish work in this area.",
+   "owner": "MEP Team",
+   "status": "Closed",
+   "impact": "Finished 15/10/2026 (20 days delay to subsequent activities)"
+  },
+  {
+   "no": 4,
+   "item": "2nd Fix Wall Partitions Clearance",
+   "description": "2nd fix still on hold.",
+   "required": "Clearance approval.",
+   "owner": "MEP Team",
+   "status": "Closed",
+   "impact": "Clearance sent 6-10-2026, finished 25/10/2025 (15 days delay to subsequent activities)"
+  },
+  {
+   "no": 5,
+   "item": "Design for the Two Second-Floor Rooms",
+   "description": "Design issued, waiting ID finishes.",
+   "required": "Issue the coordinated design drawings and finish specifications.",
+   "owner": "Design Team",
+   "status": "Closed",
+   "impact": "Clearance sent 19/09/2026, finished 21/10/2026 (30 days delay)"
+  },
+  {
+   "no": 6,
+   "item": "Elevation Profile Clearance",
+   "description": "Clearance submitted, waiting for approval.",
+   "required": "Clearance approval.",
+   "owner": "MEP Team",
+   "status": "Closed",
+   "impact": "Clearance sent 11/10/2026, finished 22/10/2026 (10 days delay)"
+  },
+  {
+   "no": 7,
+   "item": "Ground-Floor Marble Elevation Design",
+   "description": "The design and installation details are required to finalize setting-out, material preparation, and coordination with adjacent façade elements. These activities remain dependent on receipt of the required information.",
+   "required": "Issue the coordinated façade drawings and relevant installation details.",
+   "owner": "Design Team",
+   "status": "Ongoing",
+   "impact": "Still open"
+  },
+  {
+   "no": 8,
+   "item": "Aluminum Façade Framework Mounting Plates",
+   "description": "Attendance of the specialist contractor is required to install the fixation plates as agreed. Completion of this interface is necessary to release the associated façade works.",
+   "required": "Contractor’s attendance and installation of fixation plates.",
+   "owner": "Aluminum Company",
+   "status": "Ongoing",
+   "impact": "Still open and affecting closing the marble item"
+  },
+  {
+   "no": 9,
+   "item": "Ceiling Suspension Work",
+   "description": "Ceiling suspension still on hold.",
+   "required": "Clearance approval.",
+   "owner": "MEP Team",
+   "status": "Closed",
+   "impact": "Finished 23/10/2026 (16 days delay)"
+  },
+  {
+   "no": 10,
+   "item": "Mockup Approval",
+   "description": "Stairs and handrail mockup approval.",
+   "required": "Mockup review and approval.",
+   "owner": "Design Team",
+   "status": "Ongoing",
+   "impact": "Open and affecting offsite manufacturing"
+  },
+  {
+   "no": 11,
+   "item": "Damages by other contractors and bad housekeeping on site",
+   "description": "Other contractors are damaging Site Insight installed materials, with no cleaning or housekeeping by other contractors except the Site Insight team.",
+   "required": "Consultant to issue direct instructions to all contractors to be responsible for their activities that require housekeeping and to coordinate with SI before damaging any installed materials.",
+   "owner": "Consultant",
+   "status": "Ongoing",
+   "impact": "Ongoing since the start of the project with no action taken; SI team performs rework and assigns a housekeeping team with multiple skips"
+  },
+  {
+   "no": 12,
+   "item": "IT Room Clearance – First floor",
+   "description": "Waiting clearance approval.",
+   "required": "Clearance approval.",
+   "owner": "MEP Team",
+   "status": "Closed",
+   "impact": "10 days delay from MEP contractor due to performing MEP activities till 21-10-2026"
+  }
+ ]
+}
